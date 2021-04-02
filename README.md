@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @subaladhikari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi, Subal Here!
+
+### 👀 More about me...  
+
+```javascript
+[ 
+ {
+  code: [HTML, CSS, JAVASCRIPT, GIT],
+  tools: {
+   frontEnd: {
+         js: ["React","Redux"],
+         css: ["Sass", "Bootstrap", "Material UI", "Styled-Components"]
+      },
+   backEnd: {
+        js: ["Firebase"]
+        cms: ["Contentful"]
+     },
+  challenge: "Recently finished 100DaysofCode",
+  learning: "Gatsby",
+ }
+]
+```
+
+### 📫 If you would like to say hi, or connect with me, I'll be happy to know you more!
+
+---
+
+⭐️ From [@subaladhikari](https://github.com/subaladhikari)
 
 <!---
 subaladhikari/subaladhikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
