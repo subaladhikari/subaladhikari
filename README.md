@@ -1,7 +1,5 @@
 ### 👋 Hi, Subal Here!
 
-
-
 ```javascript
 const aboutMe = [{
     code: [HTML, CSS, JAVASCRIPT, GIT],
@@ -14,8 +12,9 @@ const aboutMe = [{
         JS: ["Firebase"]
         CMS: ["Contentful"]
       },
-    challenge: "Recently finished 100DaysofCode",
     learning: "Gatsby",
+    challenge: "Recently finished 100DaysofReact",
+    occupation: ["currently looking for oppurtunities"],
 }]
 ```
 
