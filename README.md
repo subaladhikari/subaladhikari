@@ -8,13 +8,13 @@
   code: [HTML, CSS, JAVASCRIPT, GIT],
   tools: {
    frontEnd: {
-         js: ["React","Redux"],
-         css: ["Sass", "Bootstrap", "Material UI", "Styled-Components"]
-      },
+      JS: ["React","Redux"],
+      CSS: ["Sass", "Bootstrap", "Material UI", "Styled-Components"]
+   },
    backEnd: {
-        js: ["Firebase"]
-        cms: ["Contentful"]
-     },
+      JS: ["Firebase"]
+      CMS: ["Contentful"]
+   },
   challenge: "Recently finished 100DaysofCode",
   learning: "Gatsby",
  }
