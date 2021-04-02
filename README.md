@@ -1,9 +1,9 @@
 ### 👋 Hi, Subal Here!
 
-### 👀 More about me...  
+
 
 ```javascript
-[ 
+const aboutMe = [ 
  {
   code: [HTML, CSS, JAVASCRIPT, GIT],
   tools: {
