@@ -20,10 +20,6 @@ const aboutMe = [{
 
 ### 📫 If you would like to know more about me, feel free to visit [my portfolio here!](https://subaladhikari.netlify.app/)
 
----
-
-⭐️ From [@subaladhikari](https://github.com/subaladhikari)
-
 <!---
 subaladhikari/subaladhikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
