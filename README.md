@@ -4,20 +4,20 @@
 
 ```javascript
 const aboutMe = [ 
- {
-  code: [HTML, CSS, JAVASCRIPT, GIT],
-  tools: {
-   frontEnd: {
+  {
+   code: [HTML, CSS, JAVASCRIPT, GIT],
+   tools: {
+    frontEnd: {
       JS: ["React","Redux"],
       CSS: ["Sass", "Bootstrap", "Material UI", "Styled-Components"]
-   },
-   backEnd: {
+    },
+    backEnd: {
       JS: ["Firebase"]
       CMS: ["Contentful"]
-   },
-  challenge: "Recently finished 100DaysofCode",
-  learning: "Gatsby",
- }
+    },
+   challenge: "Recently finished 100DaysofCode",
+   learning: "Gatsby",
+  }
 ]
 ```
 
