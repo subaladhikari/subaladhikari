@@ -18,7 +18,7 @@ const aboutMe = [{
 }]
 ```
 
-### 📫 If you would like to say hi, or connect with me, I'll be happy to know you more!
+### 📫 If you would like to know more about me, feel free to visit [my portfolio here!](https://subaladhikari.netlify.app/)
 
 ---
 
